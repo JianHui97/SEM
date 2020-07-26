@@ -16,7 +16,7 @@
             <img src="images/logoims.png" alt="Logo alt">
           </a>
         </h1>      
-      <div class="clear"></div>  
+      <div class="clear"></div> 
     </div>
 
   </div>
