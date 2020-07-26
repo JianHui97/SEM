@@ -16,7 +16,7 @@
             <img src="images/logoims.png" alt="Logo alt">
           </a>
         </h1>      
-      <div class="clear"></div>  
+      <div class="clear"></div> 
     </div>
 
   </div>
@@ -31,6 +31,7 @@
 			<li><a href="/sdw/ManageEvaluation/view/InsertJuryForm.php">Jury</a></li>
              <li><a href="/sdw/ManageEquipment/manage_equipment/viewequip.php">Equipment</a></li>
              <li><a href="/sdw/ManageBooth/View/BoothView.php">Booth</a></li>
+			 <li><a href="">Annoucement</a></li>
 			 <li><a href="http://localhost/sdw/ManageLogin/View/">Logout</a></li>
           </nav>
       
