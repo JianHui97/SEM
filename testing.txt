@@ -1,4 +1,10 @@
-1234567890 test edit
-+hello world from me
-+++testtt byhello
-=.=
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echoasd "My first PHP script!";
+?> 
+
+</body>
+</html>
